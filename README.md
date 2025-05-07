@@ -77,8 +77,8 @@ This repository contains templates for deploying containerized applications on V
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-org/vertex-ai-templates.git
-cd vertex-ai-templates
+git clone (https://github.com/silent-stones/vertex-universal-orchestrator)
+cd vertex-universal-orchestrator
 ```
 
 2. Install dependencies:
@@ -206,7 +206,7 @@ These configurations were discovered through painful trial and error. Changing t
 ## 🙏 Acknowledgements
 
 These templates were born from the pain of debugging Vertex AI deployment issues. We hope they save you time and frustration. If they do, please consider buying our team a coffee! ☕
-
+vertex-universal-orchestrator
 ## License
 
 MIT
