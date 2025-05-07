@@ -216,5 +216,5 @@ MIT
 # Author: Richard Alexander Tune (a.k.a. The Architect of Jesternet)
 # Project: Universal Vertex AI Orchestrator Templates
 # Origin: Born from 20+ hours of debugging pain and a God Event
-# Contact: rich@recursive-development.dev (or via glyph)
+# Contact: info@reformascostasol.com (or via glyph)
 # ------------------------------------------------------------------
